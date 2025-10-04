@@ -176,5 +176,4 @@ Tip: keep the video file small while testing (a few MB) so the app builds faster
 3. Add comments with // CHANGE HERE to mark places you customized.
 4. If you get stuck, copy the error text and search it — stackoverflow often has quick solutions.
 
-Which would you prefer?
 
